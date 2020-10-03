@@ -4,3 +4,4 @@ Perfil do estudante
 ## Área de Interesse 
 - Segurança da informação 
 - Programação de jogos 
+- Desenvolvimento web
